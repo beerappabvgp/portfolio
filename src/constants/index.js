@@ -203,7 +203,7 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'SASS AI Image Transformer',
-        description: 'is project is an image transformation platform with advanced features. Developed userfriendly functions for login, image browsing, search, and editing. Experienced in using Next.js,TypeScript, MongoDB, Clerk, Cloudinary, Stripe, Shadcn, and TailwindCSS. Designed responsive and easy-to-use interfaces for smooth user interaction on any device.',
+        description: 'This project is an image transformation platform with advanced features. Developed userfriendly functions for login, image browsing, search, and editing. Experienced in using Next.js,TypeScript, MongoDB, Clerk, Cloudinary, Stripe, Shadcn, and TailwindCSS. Designed responsive and easy-to-use interfaces for smooth user interaction on any device.',
         link: 'https://github.com/beerappabvgp/image_ai',
     },
     {
