@@ -35,7 +35,13 @@ import docker from './docker.png'
 import bootstrap from './bootstrap.jpeg'
 import leetcode from './leetcode.jpeg'
 import download from './download.jpeg'
+import ethereum from './ethereum.jpeg'
+import solidity from './solidity.jpeg'
+import web3 from './web3.jpeg'
 export {
+    ethereum,
+    solidity,
+    web3,
     leetcode,
     download,
     bootstrap,

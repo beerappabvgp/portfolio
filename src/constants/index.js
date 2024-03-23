@@ -32,7 +32,10 @@ import {
     python,
     bootstrap,
     leetcode,
-    download
+    download,
+    web3,
+    ethereum,
+    solidity
 } from "../assets/icons";
 
 export const skills = [
@@ -140,6 +143,21 @@ export const skills = [
         imageUrl: bootstrap,
         name: "Bootstrap",
         type: "Frontend",
+    },
+    {
+        imageUrl: web3,
+        name: "Web3",
+        type: "web3",
+    },
+    {
+        imageUrl: ethereum,
+        name: "Ethereum",
+        type: "web3",
+    },
+    {
+        imageUrl: solidity,
+        name: "Solidity",
+        type: "web3",
     },
 ];
 
