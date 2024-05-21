@@ -35,7 +35,8 @@ import {
     download,
     web3,
     ethereum,
-    solidity
+    solidity,
+    solana
 } from "../assets/icons";
 
 export const skills = [
@@ -159,6 +160,11 @@ export const skills = [
         name: "Solidity",
         type: "web3",
     },
+    {
+        imageUrl: solana,
+        name: "Solana",
+        type: "web3",
+    }
 ];
 
 export const experiences = [
@@ -167,7 +173,7 @@ export const experiences = [
         company_name: "Syncfusion Software",
         icon: syncfusion,
         iconBg: "#accbe1",
-        date: "September 2023 - Present",
+        date: "September 2023 - April 2024",
         points: [
             "Played a key role in developing features and functionalities for the Document Editor product, ensuring alignment with industry standards and meeting customer needs",
             "Led the implementation of critical features such as the comments resolved functionality, enhancing the user experience and productivity.",
@@ -226,10 +232,10 @@ export const projects = [
     },
     {
         iconUrl: threads,
-        theme: 'btn-back-green',
-        name: 'Full stack real estate website',
-        description: 'Designed and developed a real estate website using the MERN (MongoDB, Express.js,React.js, Node.js) stack. Leveraged Tailwind CSS for modern and responsive styling, while implementing Redux for efficient state management. Ensured security with bcrypt for password encryption and employed JWT (JSON Web Tokens) for user authentication.',
-        link: 'https://github.com/beerappabvgp/real-estate-mern',
+        theme: 'btn-back-blue',
+        name: 'Chainlink powered Decentralized lottery',
+        description: "Engineered and deployed a decentralized lottery system on the Ethereum blockchain, utilizing Chainlink VRF for random winner selection.Implemented smart contract functionalities for user entries, periodic draws, and automatic payouts, which increased user trust and engagement.",
+        link: "https://github.com/beerappabvgp/hardhat-decentralized-lottery",
     },
     {
         iconUrl: car,
@@ -237,6 +243,13 @@ export const projects = [
         name: 'Online Marketplace Development Project',
         description: 'Developed a online marketplace using Django, implementing CRUD (Create, Read, Update,Delete) operations to manage products and user interactions. Established authentication mechanisms for user accounts, ensuring privacy.',
         link: 'https://github.com/beerappabvgp/book-store',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'Full stack real estate website',
+        description: 'Designed and developed a real estate website using the MERN (MongoDB, Express.js,React.js, Node.js) stack. Leveraged Tailwind CSS for modern and responsive styling, while implementing Redux for efficient state management. Ensured security with bcrypt for password encryption and employed JWT (JSON Web Tokens) for user authentication.',
+        link: 'https://github.com/beerappabvgp/real-estate-mern',
     },
     {
         iconUrl: snapgram,

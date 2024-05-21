@@ -38,7 +38,9 @@ import download from './download.jpeg'
 import ethereum from './ethereum.jpeg'
 import solidity from './solidity.jpeg'
 import web3 from './web3.jpeg'
+import solana from './solana.jpeg'
 export {
+    solana,
     ethereum,
     solidity,
     web3,
