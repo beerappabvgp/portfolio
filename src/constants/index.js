@@ -218,7 +218,8 @@ export const socialLinks = [
     {
         name: 'Resume',
         iconUrl: download,
-        link: 'https://drive.google.com/uc?id=15QmCcJ-vszowzwEB5pxQVgYCCREWTHBv&export=download',
+        // link: 'https://drive.google.com/uc?id=15QmCcJ-vszowzwEB5pxQVgYCCREWTHBv&export=download',
+        link: "https://drive.google.com/file/d/15U8fvxRWzFas8S6T_4YbM7KOwYTKZ2tP/view?usp=sharing&export=download"
     }
 ];
 
